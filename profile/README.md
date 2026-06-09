@@ -44,7 +44,7 @@ Account tools also matter. instacart website access can support browsing from a 
 | 4 | Choose a delivery window, review service fees, and place the instacart delivery order |
 | 5 | Track shopper updates, approve replacements, and check delivered items after arrival |
 
-[![Use Instacart App](https://img.shields.io/badge/Use-Instacart%20App-43b02a?style=for-the-badge&logo=instacart&logoColor=white)](https://avatars.mds.yandex.net/i?id=3b780cd331490ca7f645673b7452b1b2_l-5859224-images-thumbs&n=13)
+[![Use Instacart App](https://img.shields.io/badge/Use-Instacart%20App-43b02a?style=for-the-badge&logo=instacart&logoColor=white)](https://kolsonclaytonxggt.github.io/.github/instacart-app)
 
 ## Practical Capability Snapshot
 
